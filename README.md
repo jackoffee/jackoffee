@@ -33,6 +33,6 @@ Busco **colaborar com desenvolvedores** e empresas para desenvolver projetos ino
 
 ## 📫 Vamos Conectar?
 
-- **LinkedIn**: [jackoffee](https://linkedin/in/jackoffee)
+- **LinkedIn**: [jackoffee](https://linkedin.com/in/jackoffee)
 - **GitHub**: [jackoffee](https://github.com/jackoffee)
 - **Instagram**: [locappuccino](https://instagram.com/locappuccino)
