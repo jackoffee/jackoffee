@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, sou Jackoffee (JCKFF) 👋
 
-<!--
-**jackoffee/jackoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante imerso na área de **desenvolvimento frontend**, com uma base sólida para criar **sites visualmente agradáveis**, **funcionais** e **responsivos**. Atualmente, estou cursando **ensino médio** e um **curso técnico em informática**. Tenho como objetivo me profissionalizar cada vez mais, contribuindo com projetos freelance e colaborando com empresas no futuro, especialmente no cenário internacional.
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens e Frameworks**: HTML5, CSS3, JavaScript, React, Vue.js, Next.js, Typescript.
+- **Estilos e Layouts**: Sass, Tailwind CSS.
+- **Ferramentas de Desenvolvimento**: Git, Figma, Storybook, Cypress, Visual Studio Code, Android Studio.
+- **Outras Linguagens**: C, C++, PHP, Java.
+- **Certificações**: Ensino técnico em informática (em andamento), certificado de inglês B2.
+
+## 🌟 Projetos
+
+Aqui estão alguns dos meus projetos mais importantes, que você pode conferir abaixo:
+
+- **[Portfólio Pessoal](https://jackoffee.github.io/portfolio)**: Um portfólio onde você pode ver vários dos meus projetos, como redesign de plataformas populares e websites para marcas fictícias.
+- **[Redesign da Steam](https://jackoffee.github.io/steam)**: Um projeto de redesign para melhorar a interface da Steam com um design mais moderno e funcional.
+- **Site de Banco Fictício**: Uma simulação de site de banco, explorando conceitos de UX/UI para uma experiência simples e eficiente.
+- **[Redesign da Netflix](https://jackoffee.github.io/netflix)**: Um redesign focado em melhorar a interface e usabilidade da Netflix.
+- **[Site de Construtora Fictícia](https://jackoffee.github.io/yconstrutora)**: Um site completo para uma construtora, com design focado na experiência do usuário.
+
+### Projetos em Destaque
+
+- **[OrcNotes](https://jackoffee.github.io/orcnotes)**: Um bloco de notas eficiente e simples, com foco em ser **clean** e **leve**. Permite salvar notas usando o **localStorage** do navegador, categorizá-las com selos temáticos (mitologia/era medieval) e é totalmente responsivo. Em breve, estará disponível como aplicativo na **Play Store**.
+
+## 🎯 Meus Objetivos
+
+- **Curto Prazo**: Conseguir engajamento na área de desenvolvimento frontend e assumir projetos freelance para ganhar experiência prática.
+- **Longo Prazo**: Me profissionalizar com ensino superior, melhorar meu inglês e trabalhar para empresas no exterior.
+
+Busco **colaborar com desenvolvedores** e empresas para desenvolver projetos inovadores. Estou sempre estudando novas tecnologias e técnicas, e me dispondo a trabalhar de forma proativa para adquirir mais experiência.
+
+## 📫 Vamos Conectar?
+
+- **LinkedIn**: [jackoffee](https://linkedin/in/jackoffee)
+- **GitHub**: [jackoffee](https://github.com/jackoffee)
+- **Instagram**: [locappuccino](https://instagram.com/locappuccino)
