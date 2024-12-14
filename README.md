@@ -1,6 +1,6 @@
 # Olá, sou Jackoffee (JCKFF) 👋
 
-Sou um estudante imerso na área de **desenvolvimento frontend**, com uma base sólida para criar **sites visualmente agradáveis**, **funcionais** e **responsivos**. Atualmente, estou cursando **ensino médio** e um **curso técnico em informática**. Tenho como objetivo me profissionalizar cada vez mais, contribuindo com projetos freelance e colaborando com empresas no futuro, especialmente no cenário internacional.
+Sou um estudante imerso na área de **desenvolvimento front-end**, com uma base sólida para criar **sites visualmente agradáveis**, **funcionais** e **responsivos**. Atualmente, estou cursando **ensino médio** e um **curso técnico em informática**. Tenho como objetivo me profissionalizar cada vez mais, contribuindo com projetos freelance desde já e colaborando com pessoas empresas no futuro, especialmente no cenário internacional.
 
 ## 🚀 Minhas Habilidades
 
@@ -26,13 +26,12 @@ Aqui estão alguns dos meus projetos mais importantes, que você pode conferir a
 
 ## 🎯 Meus Objetivos
 
-- **Curto Prazo**: Conseguir engajamento na área de desenvolvimento frontend e assumir projetos freelance para ganhar experiência prática.
+- **Curto Prazo**: Conseguir engajamento na área de desenvolvimento front-end e assumir projetos freelance para ganhar experiência prática.
 - **Longo Prazo**: Me profissionalizar com ensino superior, melhorar meu inglês e trabalhar para empresas no exterior.
 
-Busco **colaborar com desenvolvedores** e empresas para desenvolver projetos inovadores. Estou sempre estudando novas tecnologias e técnicas, e me dispondo a trabalhar de forma proativa para adquirir mais experiência.
+Busco **colaborar com desenvolvedores**, artistas e empresas para desenvolver projetos inovadores. Estou sempre estudando novas tecnologias e técnicas, e me dispondo a trabalhar de forma proativa para adquirir mais experiência. Precisa de um portfólio? Entre em contato!
 
 ## 📫 Vamos Conectar?
 
 - **LinkedIn**: [jackoffee](https://linkedin.com/in/jackoffee)
-- **GitHub**: [jackoffee](https://github.com/jackoffee)
 - **Instagram**: [locappuccino](https://instagram.com/locappuccino)
